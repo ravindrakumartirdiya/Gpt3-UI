@@ -1,0 +1,9 @@
+.gpt3__brand-section {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 4rem 0.5rem 0 0.5rem;
+}
